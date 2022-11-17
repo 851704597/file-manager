@@ -1,0 +1,5 @@
+org\thgy\service\UploadService.class
+org\thgy\dto\UploadInfo.class
+org\thgy\controller\UploadController.class
+org\thgy\service\impl\UploadServiceImpl.class
+org\thgy\FileManager.class
